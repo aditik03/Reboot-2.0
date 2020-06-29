@@ -50,3 +50,23 @@ sol(3)
 
 ![dir](https://user-images.githubusercontent.com/53777994/86041734-bb973900-ba63-11ea-8e7a-906ce5875f4a.PNG)
 
+
+Q4) Share and files and folder 
+
+
+1) create two users name jack and Jill  from command line
+2) create all the data under home directory of each users 
+3) login with jack user and create a file name  jack.txt using vim editor and write "hello jack"
+4) from jack user also create two directories name jack1 & jack2 
+5) now login from Jill user and create a file. Jill.txt using vim editor and write "hey jiil"
+6) from Jill also create two directoires named jill1 & jill2 
+
+Important :  swap these files and directories in between users  and to swap don't use root account.
+
+sol(4)
+
+1) Adding User
+
+
+
+
