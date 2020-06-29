@@ -67,6 +67,15 @@ sol(4)
 
 1) Adding User
 
+![user](https://user-images.githubusercontent.com/53777994/86048577-5d238800-ba6e-11ea-960e-958a782e27b3.PNG)
+
+2) Creating file
+
+
+3) Swapping file
+
+
+
 
 
 
