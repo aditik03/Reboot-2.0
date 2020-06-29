@@ -71,9 +71,12 @@ sol(4)
 
 2) Creating file
 
+![file](https://user-images.githubusercontent.com/53777994/86048579-5dbc1e80-ba6e-11ea-9fbd-6abe734b4b33.PNG)
+
 
 3) Swapping file
 
+![swap](https://user-images.githubusercontent.com/53777994/86048592-6280d280-ba6e-11ea-9629-077dee25ee9c.PNG)
 
 
 
