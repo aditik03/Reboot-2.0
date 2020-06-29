@@ -11,6 +11,7 @@ By using a tool STRACE we can see how Linux Kernel processes command by getting 
 2) Install strace if not installed
 3) strace -o d.log date  /* this file will have output of the strace which contains system calls for the command */
 4) grep date d.log  /* this will filter out the system calls which contains date as argument */
+ 
  output -- execve("/usr/bin/date", ["date"], 0x7ffd5b29a750 /* 45 vars */) = 0
 If we can change the first argument passed in execve for date command which is the absolute path for the date file and pass other path except of date of file then on running 
 date command kernel will not respond to it.
@@ -25,5 +26,5 @@ sol(2.1)
 
 --create a directory with name "-okgoogle"
 sol(2.2)
-1) mkdir -- -okgoogle /* pass argumnet '--' with mkdir command which specifies no option and removes the meaning of the operator '-' */
+1) mkdir -- -okgoogle /* pass argument '--' with mkdir command which specifies no option and removes the meaning of the operator '-' */
 2) Open files and in Home directory you can see a directory with name -okgoogle.
