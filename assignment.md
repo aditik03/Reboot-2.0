@@ -36,3 +36,12 @@ sol(2.2)
 
 1) mkdir -- -okgoogle   /* pass argument '--' with mkdir command which specifies no option and removes the meaning of the operator '-' */
 2) Open files and in Home directory you can see a directory with name -okgoogle.
+
+Q3) Create a directory structure 
+
+Note :   You are only allowed to use a single command and only one time
+
+
+
+![dir](https://user-images.githubusercontent.com/53777994/86041734-bb973900-ba63-11ea-8e7a-906ce5875f4a.PNG)
+
