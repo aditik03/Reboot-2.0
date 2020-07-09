@@ -2,9 +2,9 @@
 
 Q1) Block System call : 
 
-** -block system call for date command 
+-block system call for date command 
   --that means you don't have to uninstall date command but if you run kernel must not accept 
--do the same Firefox as well **
+-do the same Firefox as well 
 
 sol (1.1)
 
@@ -113,12 +113,20 @@ Q5)  Play with files and directories
  2) vim .bashrc
  3) edit the file and write exec > /dev/null 
  4) save it by pressing esc and then :wq
+ 
+ ![61](https://user-images.githubusercontent.com/53777994/87033440-dd32b600-c203-11ea-931c-a6b5d71e00e2.PNG)
+ 
  5) Again open terminal and run ay command it will not show the output
  
  
+![62](https://user-images.githubusercontent.com/53777994/87033443-defc7980-c203-11ea-8720-d22a6550bb01.PNG)
  
  1) To reverse it back through GUI go to Files and then search for the options hidden files(check it).
  2) Go to .bashrc file and int remove 'exec > /dev/null ' or comment it .
+ 
+
+![63](https://user-images.githubusercontent.com/53777994/87033448-e02da680-c203-11ea-973d-62b5ed154db2.PNG)
+
  
  
  
