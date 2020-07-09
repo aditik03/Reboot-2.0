@@ -1,10 +1,10 @@
-Assignment 
+# Assignment 
 
-Q1) Block System call : 
+## Q1) Block System call : 
 
--block system call for date command 
+** -block system call for date command 
   --that means you don't have to uninstall date command but if you run kernel must not accept 
--do the same Firefox as well
+-do the same Firefox as well **
 
 sol (1.1)
 
