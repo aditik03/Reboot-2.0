@@ -101,6 +101,27 @@ Q5)  Play with files and directories
  Source: https://unix.stackexchange.com/questions/79535/syntax-of-ls-hide-and-ls-ignore
  
  
+ Q6) Run command without any output 
+
+  1) open terminal and type any command 
+  2) once you press enter your output of given command must not  print
+  3) you are not allowed to redirect output anywhere 
+  
+  sol(6)
+  
+ 1) Open terminal
+ 2) vim .bashrc
+ 3) edit the file and write exec > /dev/null 
+ 4) save it by pressing esc and then :wq
+ 5) Again open terminal and run ay command it will not show the output
+ 
+ 
+ 
+ 1) To reverse it back through GUI go to Files and then search for the options hidden files(check it).
+ 2) Go to .bashrc file and int remove 'exec > /dev/null ' or comment it .
+ 
+ 
+ 
  
  
  
