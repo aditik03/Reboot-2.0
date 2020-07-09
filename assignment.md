@@ -121,8 +121,8 @@ Q5)  Play with files and directories
  
 ![62](https://user-images.githubusercontent.com/53777994/87033443-defc7980-c203-11ea-8720-d22a6550bb01.PNG)
  
- 1) To reverse it back through GUI go to Files and then search for the options hidden files(check it).
- 2) Go to .bashrc file and int remove 'exec > /dev/null ' or comment it .
+ 1) To reverse it back do it through GUI(as will not be possible through) go to Files and then search for the options hidden files(check it).
+ 2) Go to .bashrc file and in it remove 'exec > /dev/null ' or comment it .
  
 
 ![63](https://user-images.githubusercontent.com/53777994/87033448-e02da680-c203-11ea-973d-62b5ed154db2.PNG)
