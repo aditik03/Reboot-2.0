@@ -1,6 +1,6 @@
 # Assignment 
 
-## Q1) Block System call : 
+Q1) Block System call : 
 
 ** -block system call for date command 
   --that means you don't have to uninstall date command but if you run kernel must not accept 
@@ -93,9 +93,11 @@ Q5)  Play with files and directories
  3) touch abc.txt 'ok fine' g.txt
  4) mkdir aa aaa aaaa
  5) ls   ## this will list the files|directory of tmp ##
- 6) ls -d ?? ## will list the files|directory containing only 2 char in their name ##
+ 6) ls --ignore='???*' ## will list the files|directory containing only 2 char in their name ##
  
  ![pd](https://user-images.githubusercontent.com/53777994/87022338-fa5f8880-c1f3-11ea-9b79-1cab98cf7c35.PNG)
+ 
+ Source: https://unix.stackexchange.com/questions/79535/syntax-of-ls-hide-and-ls-ignore
  
  
  
