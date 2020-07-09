@@ -86,6 +86,17 @@ Q5)  Play with files and directories
  3) give ls command to  list the content of  /tmp directory 
  4) make sure it will only list the content (file|directory)  having 2 char in their name.
  
+ sol(5)
+ 
+ 1) Open Terminal
+ 2) cd /tmp
+ 3) touch abc.txt 'ok fine' g.txt
+ 4) mkdir aa aaa aaaa
+ 5) ls   ## this will list the files|directory of tmp ##
+ 6) ls -d ?? ## will list the files|directory containing only 2 char in their name ##
+ 
+ 
+ 
  
  
 
