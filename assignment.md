@@ -95,8 +95,9 @@ Q5)  Play with files and directories
  5) ls   ## this will list the files|directory of tmp ##
  6) ls --ignore='???*' ## will list the files|directory containing only 2 char in their name ##
  
- ![pd](https://user-images.githubusercontent.com/53777994/87022338-fa5f8880-c1f3-11ea-9b79-1cab98cf7c35.PNG)
- 
+![pd1](https://user-images.githubusercontent.com/53777994/87027664-1e729800-c1fb-11ea-8778-410942e9a2fd.PNG)
+
+
  Source: https://unix.stackexchange.com/questions/79535/syntax-of-ls-hide-and-ls-ignore
  
  
