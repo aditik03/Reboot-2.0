@@ -95,6 +95,8 @@ Q5)  Play with files and directories
  5) ls   ## this will list the files|directory of tmp ##
  6) ls -d ?? ## will list the files|directory containing only 2 char in their name ##
  
+ ![pd](https://user-images.githubusercontent.com/53777994/87022338-fa5f8880-c1f3-11ea-9b79-1cab98cf7c35.PNG)
+ 
  
  
  
