@@ -79,6 +79,14 @@ sol(4)
 ![swap](https://user-images.githubusercontent.com/53777994/86048592-6280d280-ba6e-11ea-9629-077dee25ee9c.PNG)
 
 
+Q5)  Play with files and directories 
 
+ 1) create  3 files named   abc.txt  ok  fine  g.txt  /tmp directory 
+ 2) create  4  directories   aa aaa aaaa  under  /tmp directory 
+ 3) give ls command to  list the content of  /tmp directory 
+ 4) make sure it will only list the content (file|directory)  having 2 char in their name.
+ 
+ 
+ 
 
 
